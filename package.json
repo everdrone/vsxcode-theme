@@ -1,0 +1,26 @@
+{
+    "name": "vsxcode",
+    "displayName": "vsxcode",
+    "description": "XCode Catalina Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Catalina Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/catalina-dark.json"
+            },
+            {
+                "label": "Catalina Light",
+                "uiTheme": "vs",
+                "path": "./themes/catalina-light.json"
+            }
+        ]
+    }
+}

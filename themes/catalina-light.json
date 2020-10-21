@@ -1,0 +1,227 @@
+{
+  "type": "light",
+  "tokenColors": [
+    {
+      "name": "Foreground",
+      "scope": [
+        "punctuation",
+        "variable.parameter.function-call",
+        "meta.function-call.arguments",
+        "keyword.operator.assignment",
+        "meta.object-literal.key",
+        "meta.brace",
+        "constant.object.key.graphql"
+      ],
+      "settings": {
+        "foreground": "#1c2025"
+      }
+    },
+    {
+      "name": "Less bright",
+      "scope": [
+        "keyword.operator.assignment",
+        "meta.function.parameters keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#1c2025bb"
+      }
+    },
+    {
+      "name": "Comments",
+      "scope": [
+        "comment",
+        "comment storage.type",
+        "punctuation.definition.comment",
+        "string.quoted.docstring.multi",
+        "string.quoted.docstring.multi punctuation.definition.string"
+      ],
+      "settings": {
+        "foreground": "#737f8b"
+      }
+    },
+    {
+      "name": "Comment Notes",
+      "scope": [
+        "keyword.codetag.notation"
+      ],
+      "settings": {
+        "foreground": "#535f6b",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Keywords",
+      "scope": [
+        "keyword",
+        "keyword.control",
+        "keyword.declaration",
+        "keyword.expressions-and-types",
+        "keyword.operator.new",
+        "keyword.reserved",
+        "keyword.statement",
+        "storage.type",
+        "storage.modifier",
+        "constant.language",
+        "variable.language.super",
+        "variable.language.this",
+        "text.html entity.name.tag",
+        "meta.tag entity.name.tag",
+        "meta.tag support.class",
+        "string.regexp keyword.other",
+        "variable.language.special",
+        "meta.tag.attributes keyword.operator.assignment",
+        "punctuation.definition.tag",
+        "keyword.schema",
+        "keyword.input",
+        "keyword.type",
+        "support.type.property-name",
+        "punctuation.support.type.property-name",
+        "entity.name.tag.yaml"
+      ],
+      "settings": {
+        "foreground": "#800080",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Bright Green",
+      "scope": [
+        "meta.function-call.generic",
+        "meta.function-call",
+        "meta.member.access",
+        "meta.type.object support.type"
+      ],
+      "settings": {
+        "foreground": "#31565b"
+      }
+    },
+    {
+      "name": "Dark Green",
+      "scope": [
+        "variable.other.object",
+        "variable.other.property",
+        "variable.parameter.graphql"
+      ],
+      "settings": {
+        "foreground": "#4f7e86"
+      }
+    },
+    {
+      "name": "Bright pink",
+      "scope": [
+        "entity.name.function",
+        "support.function.any-method",
+        "entity.other.inherited-class",
+        "support.type.builtin"
+      ],
+      "settings": {
+        "foreground": "#4624a9"
+      }
+    },
+    {
+      "name": "Purple",
+      "scope": [
+        "meta.function-call",
+        "meta.member.access meta.function-call.generic",
+        "meta.member.access meta.attribute",
+        "meta.member.access constant.other",
+        "keyword.operator.arithmetic",
+        "variable.other.constant",
+        "meta.function-call entity.name.function",
+        "meta.objectvalues.graphql",
+        "entity.name.fragment",
+        "variable.fragment"
+      ],
+      "settings": {
+        "foreground": "#7951b2"
+      }
+    },
+    {
+      "name": "Yellow",
+      "scope": [
+        "constant.numeric",
+        "keyword.other.unit",
+        "constant.other.color"
+      ],
+      "settings": {
+        "foreground": "#2729cf"
+      }
+    },
+    {
+      "name": "Orange",
+      "scope": [
+        "string.quoted",
+        "punctuation.definition.string",
+        "string.unquoted.plain"
+      ],
+      "settings": {
+        "foreground": "#c13e2a"
+      }
+    },
+    {
+      "name": "Bright Teal",
+      "scope": [
+        "entity.name.type",
+        "support.type"
+      ],
+      "settings": {
+        "foreground": "#296188"
+      }
+    },
+    {
+      "name": "Dark Teal",
+      "scope": [
+        "meta.function.decorator",
+        "punctuation.definition.decorator",
+        "entity.name.function.decorator",
+        "entity.scalar"
+      ],
+      "settings": {
+        "foreground": "#367aab"
+      }
+    },
+    {
+      "name": "Blue",
+      "scope": [
+        "support.variable.magic"
+      ],
+      "settings": {
+        "foreground": "#1d36f5"
+      }
+    },
+    {
+      "name": "Brown",
+      "scope": [
+        "meta.tag.attributes"
+      ],
+      "settings": {
+        "foreground": "#8f7223"
+      }
+    }
+  ],
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#1c2025",
+    "editorLineNumber.foreground": "#00000033",
+    "editor.lineHighlightBackground": "#EEF5FE",
+    "editor.selectionBackground": "#B3D7FF",
+    "focusBorder": "#82ADF3",
+    "button.background": "#3C93FD",
+    "list.activeSelectionBackground": "#3C93FD",
+    "list.focusBackground": "#3C93FD",
+    "list.hoverBackground": "#252629",
+    "selection.background": "#B3D7FF",
+    "list.inactiveSelectionBackground": "#EEF5FE",
+    "activityBar.background": "#202026",
+    "activityBar.foreground": "#ddddde",
+    "statusBar.noFolderBackground": "#202026",
+    "statusBar.border": "#EEF5FE",
+    "statusBar.background": "#ffffff",
+    "statusBar.foreground": "#1c2025",
+    "statusBar.debuggingBackground": "#4624a9",
+    "statusBar.debuggingForeground": "#ffffff",
+    "statusBarItem.hoverBackground": "#00000015",
+    "statusBarItem.remoteBackground": "#296188",
+    "statusBarItem.remoteForeground": "#ffffff"
+  }
+}
