@@ -223,7 +223,6 @@
     }
   ],
   "colors": {
-    "button.background": "#0470F5",
     "editorGroup.border": "#ECECEC",
     "editorGroupHeader.tabsBackground": "#F5F5F5",
     "editorGroupHeader.tabsBorder": "#ECECEC",
@@ -274,7 +273,7 @@
     "widget.shadow": "#00000030",
     // custom
     "badge.foreground": "#ffffff",
-    "button.background": "#007AFF",
+    "button.background": "#0470F5",
     "activityBarBadge.background": "#0470F5",
     "activityBarBadge.foreground": "#ffffff",
     "activityBar.background": "#ECECEC",
