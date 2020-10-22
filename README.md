@@ -1,4 +1,4 @@
-# Supported Languages:
+### Supported Languages
 
 - [x] Swift
 - [x] Python
