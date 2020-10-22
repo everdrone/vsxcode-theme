@@ -1,7 +1,7 @@
 {
     "name": "vsxcode",
-    "displayName": "vsxcode",
-    "description": "XCode Catalina Theme",
+    "displayName": "XCode Catalina Theme",
+    "description": "VSCode theme inspired by the dark and light version of XCode's catalina theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
