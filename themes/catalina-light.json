@@ -13,7 +13,8 @@
         "constant.object.key.graphql",
         "punctuation.definition.attribute.swift",
         "meta.embedded.line",
-        "meta.definition.type.body meta.function-call"
+        "meta.definition.type.body meta.function-call",
+        "meta.tag.attributes meta.embedded.expression"
       ],
       "settings": {
         "foreground": "#1c2025"
@@ -120,7 +121,8 @@
         "entity.other.inherited-class",
         "support.type.builtin",
         "storage.modifier.attribute",
-        "meta.class.inheritance support.type"
+        "meta.class.inheritance support.type",
+        "meta.function support.function.magic"
       ],
       "settings": {
         "foreground": "#4624a9",
@@ -293,6 +295,6 @@
     "statusBar.noFolderBackground": "#202026",
     "statusBarItem.hoverBackground": "#00000015",
     "statusBarItem.remoteBackground": "#0470F5",
-    "statusBarItem.remoteForeground": "#ffffff",
+    "statusBarItem.remoteForeground": "#ffffff"
   }
 }

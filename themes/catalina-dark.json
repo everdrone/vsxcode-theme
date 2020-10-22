@@ -13,7 +13,8 @@
         "constant.object.key.graphql",
         "punctuation.definition.attribute.swift",
         "meta.embedded.line",
-        "meta.definition.type.body meta.function-call"
+        "meta.definition.type.body meta.function-call",
+        "meta.tag.attributes meta.embedded.expression"
       ],
       "settings": {
         "foreground": "#ddddde"
@@ -120,7 +121,8 @@
         "entity.other.inherited-class",
         "support.type.builtin",
         "storage.modifier.attribute",
-        "meta.class.inheritance support.type"
+        "meta.class.inheritance support.type",
+        "meta.function support.function.magic"
       ],
       "settings": {
         "foreground": "#d4bcfa",
