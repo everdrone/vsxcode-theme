@@ -277,8 +277,8 @@
     "terminal.ansiWhite": "#ddddde",
     "terminal.ansiYellow": "#f2a65e",
     "widget.shadow": "#00000000",
-    // custom
-    "activityBar.background": "#2c2c2f",
+    "--------------------------------------": true,
+    "activityBar.background": "#202026",
     "activityBar.foreground": "#ddddde",
     "activityBar.border": "#424143",
     "editor.background": "#202026",
@@ -286,17 +286,21 @@
     "editor.lineHighlightBackground": "#2F3139",
     "editor.selectionBackground": "#474E5F",
     "editorLineNumber.foreground": "#ffffff33",
-    "sideBar.background": "#2c2c2f",
+    "sideBar.background": "#202026",
     "sideBar.foreground": "#ddddde",
-    "sideBar.border": "#424143",
-    "statusBar.background": "#2c2c2f",
-    "statusBar.border": "#424143",
+    "sideBar.border": "#2c2c2f",
+    "statusBar.background": "#202026",
+    "statusBar.border": "#2c2c2f",
     "statusBar.debuggingBackground": "#aa83e5",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBar.foreground": "#ddddde",
     "statusBar.noFolderBackground": "#202026",
     "statusBarItem.hoverBackground": "#ffffff15",
     "statusBarItem.remoteBackground": "#007AFF",
-    "statusBarItem.remoteForeground": "#ffffff"
+    "statusBarItem.remoteForeground": "#ffffff",
+    "titleBar.activeBackground": "#202026",
+    "titleBar.inactiveBackground": "#2c2c2f",
+    "menu.background": "#2c2c2f",
+    "dropdown.background": "#2c2c2f"
   }
 }

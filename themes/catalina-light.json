@@ -271,7 +271,7 @@
     "terminal.ansiWhite": "#1c2025",
     "terminal.ansiYellow": "#714b30",
     "widget.shadow": "#00000030",
-    // custom
+    "--------------------------------------": true,
     "badge.foreground": "#ffffff",
     "button.background": "#0470F5",
     "activityBarBadge.background": "#0470F5",
@@ -294,6 +294,10 @@
     "statusBar.noFolderBackground": "#202026",
     "statusBarItem.hoverBackground": "#00000015",
     "statusBarItem.remoteBackground": "#0470F5",
-    "statusBarItem.remoteForeground": "#ffffff"
+    "statusBarItem.remoteForeground": "#ffffff",
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.inactiveBackground": "#ffffff",
+    "menu.background": "#ffffff",
+    "dropdown.background": "#ECECEC"
   }
 }
